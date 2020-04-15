@@ -1,4 +1,4 @@
-package com.michau.ratingsDataService.models;
+package com.michau.movieCatalogService.models;
 
 public class Rating {
     private String movieId;
